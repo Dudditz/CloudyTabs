@@ -1,0 +1,10 @@
+## Interface: 100000
+## Title: Cloudy Tabs
+## Notes: Add Profession Tabs To The Professions UI
+## Version: 1.0
+## Author: Ruler, Cloudyfa
+## Credits: All credits go to Cloudyfa and his work on Cloudy Tradeskills. This is a lite version of his addon, updated for 10.0
+
+## SavedVariablesPerCharacter: CTradeSkillDB
+
+CloudyTabs.lua
